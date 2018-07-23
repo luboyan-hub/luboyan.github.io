@@ -5,10 +5,10 @@ pygments: true
 paginate: 8
 permalink: /:title
 
-title: LI, Yu from 1981
-url: http://liyu1981.github.io
+title: Lu, boyan from V2EX
+url: http://luboyan-hub.github.io
 feed: /atom.xml
-author_info: <a href="http://liyu1981.github.io/">LI,Yu</a>
+author_info: <a href="http://luboyan-hub.github.io/">LI,Yu</a>
 
 myblog:
   gavatar: e58263391ae73db1f891203074a3c6c2
